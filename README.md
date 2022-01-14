@@ -4,5 +4,5 @@ Tuy nhiên, do thời gian có hạn nên em mới hoàn thành mô hình transf
 
 Folder Data:
 - Lưu dữ liệu của bộ dữ liệu wikitext-2 
-- Lưu dữ bộ từ điển của bộ dữ liệu
+Folder Data Transforer, Lưu bộ từ điển của bộ dữ liệu
 
