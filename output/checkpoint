@@ -1,0 +1,8 @@
+model_checkpoint_path: "xl-ckpt-1"
+all_model_checkpoint_paths: "xl-ckpt-84"
+all_model_checkpoint_paths: "xl-ckpt-2"
+all_model_checkpoint_paths: "xl-ckpt-1"
+all_model_checkpoint_timestamps: 1642157078.125189
+all_model_checkpoint_timestamps: 1642157452.9217112
+all_model_checkpoint_timestamps: 1642159121.0286992
+last_preserved_timestamp: 1596989561.9057205
