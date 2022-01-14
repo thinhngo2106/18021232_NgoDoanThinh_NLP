@@ -258,5 +258,5 @@ if __name__ == '__main__':
     # seq_len = 32
     # mem_len = 128
     # save_dir = 'data/poetry/'
-    # corpus = ChineseCorpus(path=corpus_path, vocab=vocab, save_dir=save_dir)
+    # corpus = Corpus(path=corpus_path, vocab=vocab, save_dir=save_dir)
     # corpus.get_dataset('train', batch_size, seq_len)
