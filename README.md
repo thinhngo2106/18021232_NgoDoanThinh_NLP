@@ -7,3 +7,4 @@ Folder Data:
 
 Folder Data/Data Transformer, Lưu bộ từ điển của bộ dữ liệu
 
+Mô hình cải tiến: PAR-Model
